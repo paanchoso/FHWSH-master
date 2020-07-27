@@ -9,7 +9,10 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c285d7b-7c8a-4d16-b13c-709dbb8833c3" name="Default Changelist" comment="" />
+    <list default="true" id="3c285d7b-7c8a-4d16-b13c-709dbb8833c3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -165,6 +168,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1eHZn7Lr4uWrEVQVAn2qBRJS4f4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -177,6 +183,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
@@ -318,10 +325,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="349" y="155" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1595790524936" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1595782910191">
+    <state x="249" y="0" key="SettingsEditor" timestamp="1595832348968">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1595782910191" />
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1595832348968" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1595832392916">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1595832392915" />
     <state x="168" y="120" width="1200" height="584" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1595809093022">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
