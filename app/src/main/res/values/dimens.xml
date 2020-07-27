@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen
+        name="textSizeAcc">15dp</dimen>
+    <dimen
+        name="postTitleSize">30dp</dimen>
+    <dimen
+        name="postTextSize">20dp</dimen>
+</resources>
